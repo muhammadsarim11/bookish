@@ -206,7 +206,7 @@ color: white;
 @media screen and (max-width: 430px){
    
    .page1{
-    height: 120%;
+    height: 140%;
    }
     .toggle-btn {
         display: initial;
@@ -260,7 +260,7 @@ color: white;
        margin-top: 5vw;
     }    
     .page2{
-        height: 115%;
+        height: 140%;
     }
     .about{
         display: flex;
@@ -295,7 +295,7 @@ color: white;
     }
 
     .page3{
-        height: 195%;
+        height: 220%;
     }
  .products{
   flex-wrap: wrap;
@@ -312,6 +312,6 @@ color: white;
     display: none;
  }
  .product-items p{
-    font-size: .83rem;
+    font-size: .8rem;
  }
 }
